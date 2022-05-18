@@ -7,8 +7,6 @@ namespace tatchan\hunger;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
-use pocketmine\Item\Item;
-use pocketmine\Item\ItemFactory;
 class Main extends PluginBase{
 
     //コマンド実行したときに動く
