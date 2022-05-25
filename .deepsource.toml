@@ -5,4 +5,4 @@ name = "php"
 enabled = true
 
   [analyzers.meta]
-  bootstrap_files = ["7"]
+  bootstrap_files = ["8"]
