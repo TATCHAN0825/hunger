@@ -5,4 +5,4 @@ name = "php"
 enabled = true
 
   [analyzers.meta]
-  bootstrap_files = ["8.1"]
+  bootstrap_files = ["php8.1"]
